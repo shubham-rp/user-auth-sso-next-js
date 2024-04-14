@@ -5,7 +5,7 @@ import "./globals.css";
 const inter = Inter({ subsets: ["latin"] });
 
 export const metadata: Metadata = {
-  title: "User Auth SSO",
+  title: "User Auth SSO Demo",
   description: "User Authentication via Google, Github SSO using Next JS",
 };
 
