@@ -3,7 +3,7 @@ import React from "react";
 type Props = {};
 
 const navbar = (props: Props) => {
-  return <div>navbar</div>;
+  return <div>Navbar Component</div>;
 };
 
 export default navbar;
